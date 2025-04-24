@@ -33,3 +33,7 @@ git log                 | History of previosu commits
 --------------------------------------------------------------------------------
 sudo reboot
 sudo poweroff
+
+https://github.com/PanCosmica/portfolio.git
+git remote add origin https://github.com/YOUR_USERNAME/my-new-project.git
+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
